@@ -147,5 +147,3 @@ docker-compose up -d --build --force-recreate
 ### 최종 발표
 
 [SSAFYLand\_최종발표.pdf](exec/SSAFYLand_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf)
-
-### UCC
